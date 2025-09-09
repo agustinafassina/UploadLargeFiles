@@ -11,7 +11,7 @@ This API is built with .NET 5. It is crucial to keep in mind that, even if we in
 POST /File
 ```
 
-#### Run script with dotnet
+#### 🚀Run script with dotnet
 
 ```bash
   dotnet run
