@@ -1,4 +1,4 @@
-# UploadLargeFiles.Net5
+# UploadLargeFiles.Net5.Api
 **This API is designed to support large file uploads:** 
 <br>
 It includes specific configurations to increase upload limits, enabling efficient transfer of large files without excessive restrictions. However, many solutions that involve simply removing limits in APIs are not secure and can jeopardize system security and stability. It is important to carefully evaluate these decisions and implement appropriate security measures. <br>
